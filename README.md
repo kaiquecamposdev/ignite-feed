@@ -4,7 +4,7 @@ Bem-vindo ao Ignite Feed! Uma aplicação incrível que permite visualizar e int
 - **Adicionar comentários:** Os usuários podem adicionar comentários às postagens, expressando suas opiniões e participando das conversas.
 - **Realizar exclusão dos comentários:** Os usuários podem remover seus próprios comentários, caso desejem corrigir erros ou remover conteúdo indesejado.
 - **Curtir comentários:** Os usuários podem curtir comentários para demonstrar sua aprovação ou concordância com o conteúdo.
-- **Edição de perfil:** Os usuários podem editar suas informações de perfil, como nome de usuário, foto de perfil e biografia, para personalizar sua experiência na plataforma.
+- **Edição de perfil(futuro):** Os usuários podem editar suas informações de perfil, como nome de usuário, foto de perfil e biografia, para personalizar sua experiência na plataforma.
 ### Tecnologias Utilizadas 💻
 - **React:** Biblioteca JavaScript para construir interfaces de usuário.
 - **TypeScript:** Linguagem de tipagem estática para JavaScript.
