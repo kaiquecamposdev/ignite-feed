@@ -1,74 +1,33 @@
-# Ignite Feed
-
-Bem-vindo ao Ignite Feed! Esta é uma aplicação incrível que permite visualizar e interagir com um feed de notícias.
-
-## Pré-requisitos
-
-Antes de executar esta aplicação em sua máquina, verifique se você possui o seguinte instalado:
-
-- Node.js (versão 14 ou superior)
-
-## Instalação
-
-Siga as instruções abaixo para configurar e executar a aplicação localmente:
-
-1. Clone este repositório para o seu ambiente local:
-
+# Ignite Feed 🔥
+Bem-vindo ao Ignite Feed! Uma aplicação incrível que permite visualizar e interagir simulando uma rede social.
+### Recursos 📦
+- **Adicionar comentários:** Os usuários podem adicionar comentários às postagens, expressando suas opiniões e participando das conversas.
+- **Realizar exclusão dos comentários:** Os usuários podem remover seus próprios comentários, caso desejem corrigir erros ou remover conteúdo indesejado.
+- **Curtir comentários:** Os usuários podem curtir comentários para demonstrar sua aprovação ou concordância com o conteúdo.
+- **Edição de perfil:** Os usuários podem editar suas informações de perfil, como nome de usuário, foto de perfil e biografia, para personalizar sua experiência na plataforma.
+### Tecnologias Utilizadas 💻
+- **React:** Biblioteca JavaScript para construir interfaces de usuário.
+- **TypeScript:** Linguagem de tipagem estática para JavaScript.
+- **Vite:** Ferramenta de desenvolvimento rápido para React.
+### Instalação 🔧
+**1. Clone o repositório ignite-feed:**
 ```bash
-git clone https://github.com/seu-usuario/ignite-feed.git
+git clone https://github.com/kaiquecamposdev/ignite-feed.git
 ```
-
-2. Navegue até o diretório do projeto:
-3. 
+ou
 ```bash
-cd ignite-feed
+gh repo clone kaiquecamposdev/ignite-feed
 ```
-
-3. Instale as dependências do projeto executando o seguinte comando:
-
+**2. Instale as dependências:**
 ```bash
-npm install
+cd coffe-delivery && npm i
 ```
-
-## Uso
-
-Depois de concluir a instalação, você pode executar a aplicação usando os seguintes comandos:
-
-- Para iniciar o ambiente de desenvolvimento:
-
+**3. Inicie o servidor de desenvolvimento:**
 ```bash
 npm run dev
 ```
-
-Acesse a aplicação em seu navegador através do endereço: http://localhost:3000.
-
-- Para compilar o projeto TypeScript e realizar o build:
-
-```bash
-npm run build
-```
-
-- Para executar o ESLint e verificar problemas de linting no código:
-
-```bash
-npm run lint
-```
-
-- Para iniciar um servidor de pré-visualização:
-
-```bash
-npm run preview
-```
-
-Certifique-se de que o ambiente de desenvolvimento está em execução para poder visualizar e interagir com a aplicação em seu navegador.
-
-## Configurações adicionais
-Não são necessárias configurações adicionais para executar esta aplicação.
-
-## Contribuindo
-Se você quiser contribuir para este projeto, sinta-se à vontade para enviar pull requests. Ficaremos felizes em receber sua contribuição!
-
-## Licença
-Este projeto está licenciado sob a MIT License.
-
-*Certifique-se de substituir `"seu-usuario"` no comando de clone do Git com seu nome de usuário correto.*
+**4. Acesse o aplicativo em `http://localhost:3000`.**
+### Contribuições 🤝
+Contribuições para o projeto são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
+### Licença 📝
+Este projeto é licenciado sob a [MIT License](./LICENSE).
