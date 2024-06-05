@@ -1,33 +1,33 @@
 # Ignite Feed 🔥
-Bem-vindo ao Ignite Feed! Uma aplicação incrível que permite visualizar e interagir simulando uma rede social.
-### Recursos 📦
-- **Adicionar comentários:** Os usuários podem adicionar comentários às postagens, expressando suas opiniões e participando das conversas.
-- **Realizar exclusão dos comentários:** Os usuários podem remover seus próprios comentários, caso desejem corrigir erros ou remover conteúdo indesejado.
-- **Curtir comentários:** Os usuários podem curtir comentários para demonstrar sua aprovação ou concordância com o conteúdo.
-- **Edição de perfil(futuro):** Os usuários podem editar suas informações de perfil, como nome de usuário, foto de perfil e biografia, para personalizar sua experiência na plataforma.
-### Tecnologias Utilizadas 💻
-- **React:** Biblioteca JavaScript para construir interfaces de usuário.
-- **TypeScript:** Linguagem de tipagem estática para JavaScript.
-- **Vite:** Ferramenta de desenvolvimento rápido para React.
-### Instalação 🔧
-**1. Clone o repositório ignite-feed:**
+Welcome to Ignite Feed! An incredible application that allows you to view and interact with a simulated social network.
+### Features 📦
+- **Add comments:** Users can add comments to posts, expressing their opinions and participating in conversations.
+- **Delete comments:** Users can remove their own comments if they wish to correct errors or remove unwanted content.
+- **Like comments:** Users can like comments to show their approval or agreement with the content.
+- **Profile editing (future):** Users will be able to edit their profile information, such as username, profile picture, and bio, to personalize their experience on the platform.
+### Technologies Used 💻
+- **React:** JavaScript library for building user interfaces.
+- **TypeScript:** Statically typed language for JavaScript.
+- **Vite:** Fast development tool for React.
+### Installation 🔧
+**1. Clone the ignite-feed repository:**
 ```bash
 git clone https://github.com/kaiquecamposdev/ignite-feed.git
 ```
-ou
+or
 ```bash
 gh repo clone kaiquecamposdev/ignite-feed
 ```
-**2. Instale as dependências:**
+**2. Install the dependencies:**
 ```bash
 cd coffe-delivery && npm i
 ```
-**3. Inicie o servidor de desenvolvimento:**
+**3. Start the development server:**
 ```bash
 npm run dev
 ```
-**4. Acesse o aplicativo em `http://localhost:3000`.**
-### Contribuições 🤝
-Contribuições para o projeto são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-### Licença 📝
-Este projeto é licenciado sob a [MIT License](./LICENSE).
+**4. Access the application at `http://localhost:3000`.**
+### Contributions 🤝
+Contributions to the project are welcome! Feel free to open issues or submit pull requests.
+### License 📝
+This project is licensed under the [MIT License](./LICENSE).
