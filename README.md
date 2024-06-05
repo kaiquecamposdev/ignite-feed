@@ -9,7 +9,7 @@ Welcome to Ignite Feed! An incredible application that allows you to view and in
 - **React:** JavaScript library for building user interfaces.
 - **TypeScript:** Statically typed language for JavaScript.
 - **Vite:** Fast development tool for React.
-### Installation 🔧
+### Installation 🚀
 **1. Clone the ignite-feed repository:**
 ```bash
 git clone https://github.com/kaiquecamposdev/ignite-feed.git
