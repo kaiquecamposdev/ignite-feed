@@ -26,7 +26,7 @@ cd coffe-delivery && npm i
 ```bash
 npm run dev
 ```
-**4. Access the application at `http://localhost:3000`.**
+**4. Access the application at `http://localhost:5173`.**
 ### Contributions 🤝
 Contributions to the project are welcome! Feel free to open issues or submit pull requests.
 ### License 📝
